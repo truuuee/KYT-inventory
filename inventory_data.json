@@ -1,14 +1,14 @@
 {
   "meta": {
-    "store_time": "2026-10-28 14:24",
-    "store_filename": "현재고조회_20261028142430_070386275.xlsx",
+    "store_time": "2026-10-28 15:51",
+    "store_filename": "현재고조회_20261028155114_274771701.xls",
     "total_count": 907,
-    "total_stock": 17902,
+    "total_stock": 17901,
     "in_stock_count": 870,
     "out_of_stock_count": 37,
     "helmets_count": 768,
     "parts_count": 139,
-    "build_time": "2026-10-28 15:46:53"
+    "build_time": "2026-10-28 15:57:25"
   },
   "items": [
     {
@@ -3771,7 +3771,7 @@
       "barcode": "8020838335947",
       "price": 8500,
       "price_formatted": "8,500",
-      "stock": 55,
+      "stock": 54,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
