@@ -1,14 +1,14 @@
 {
   "meta": {
-    "store_time": "2026-11-23 09:46",
-    "store_filename": "현재고조회_20261123094604_76411199.xls",
+    "store_time": "2026-11-24 10:15",
+    "store_filename": "현재고조회_20261124101552_952130292.xls",
     "total_count": 931,
-    "total_stock": 15841,
-    "in_stock_count": 893,
-    "out_of_stock_count": 38,
+    "total_stock": 15766,
+    "in_stock_count": 891,
+    "out_of_stock_count": 40,
     "helmets_count": 772,
     "parts_count": 159,
-    "build_time": "2026-11-23 09:52:22"
+    "build_time": "2026-11-24 10:17:10"
   },
   "items": [
     {
@@ -1713,7 +1713,7 @@
       "barcode": "8020838371136",
       "price": 125000,
       "price_formatted": "125,000",
-      "stock": 15,
+      "stock": 14,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -1769,7 +1769,7 @@
       "barcode": "8020838364084",
       "price": 55000,
       "price_formatted": "55,000",
-      "stock": 205,
+      "stock": 204,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -1909,7 +1909,7 @@
       "barcode": "8020838404186",
       "price": 1150000,
       "price_formatted": "1,150,000",
-      "stock": 6,
+      "stock": 5,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -2137,7 +2137,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-205"
     },
     {
       "no": 153,
@@ -2151,7 +2151,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "B11-D"
+      "location": "F4-205"
     },
     {
       "no": 154,
@@ -2165,7 +2165,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-105"
     },
     {
       "no": 155,
@@ -2179,7 +2179,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-105"
     },
     {
       "no": 156,
@@ -2193,7 +2193,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-205"
     },
     {
       "no": 157,
@@ -2207,7 +2207,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-105"
     },
     {
       "no": 158,
@@ -2305,7 +2305,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-305"
     },
     {
       "no": 165,
@@ -2319,7 +2319,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-106"
     },
     {
       "no": 166,
@@ -2333,7 +2333,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-206"
     },
     {
       "no": 167,
@@ -2347,7 +2347,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-306"
     },
     {
       "no": 168,
@@ -3057,7 +3057,7 @@
       "barcode": "8020838388028",
       "price": 55000,
       "price_formatted": "55,000",
-      "stock": 32,
+      "stock": 30,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -3113,7 +3113,7 @@
       "barcode": "8020838408337",
       "price": 65000,
       "price_formatted": "65,000",
-      "stock": 31,
+      "stock": 28,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -3127,7 +3127,7 @@
       "barcode": "준비중",
       "price": 45000,
       "price_formatted": "45,000",
-      "stock": 232,
+      "stock": 226,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -3267,7 +3267,7 @@
       "barcode": "8020838399345",
       "price": 599000,
       "price_formatted": "599,000",
-      "stock": 16,
+      "stock": 14,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -3309,7 +3309,7 @@
       "barcode": "8020838398508",
       "price": 599000,
       "price_formatted": "599,000",
-      "stock": 10,
+      "stock": 9,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -3533,7 +3533,7 @@
       "barcode": "8020838398546",
       "price": 599000,
       "price_formatted": "599,000",
-      "stock": 7,
+      "stock": 5,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -3547,7 +3547,7 @@
       "barcode": "8020838398539",
       "price": 599000,
       "price_formatted": "599,000",
-      "stock": 8,
+      "stock": 7,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -3785,7 +3785,7 @@
       "barcode": "8020838402502",
       "price": 499000,
       "price_formatted": "499,000",
-      "stock": 4,
+      "stock": 3,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -4093,7 +4093,7 @@
       "barcode": "8020838405015",
       "price": 210000,
       "price_formatted": "210,000",
-      "stock": 6,
+      "stock": 5,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -4149,7 +4149,7 @@
       "barcode": "8020838405008",
       "price": 210000,
       "price_formatted": "210,000",
-      "stock": 8,
+      "stock": 7,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -4219,7 +4219,7 @@
       "barcode": "8020838404575",
       "price": 210000,
       "price_formatted": "210,000",
-      "stock": 22,
+      "stock": 21,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -4345,7 +4345,7 @@
       "barcode": "8020838335947",
       "price": 8500,
       "price_formatted": "8,500",
-      "stock": 50,
+      "stock": 49,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -4359,11 +4359,11 @@
       "barcode": "8020838371389",
       "price": 30000,
       "price_formatted": "30,000",
-      "stock": 98,
+      "stock": 97,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F5-401"
     },
     {
       "no": 312,
@@ -4377,7 +4377,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F5-201"
     },
     {
       "no": 313,
@@ -4405,7 +4405,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F5-203"
     },
     {
       "no": 315,
@@ -4415,11 +4415,11 @@
       "barcode": "8020838421916",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 103,
+      "stock": 102,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F5-202"
     },
     {
       "no": 316,
@@ -4433,7 +4433,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F5-204"
     },
     {
       "no": 317,
@@ -4443,7 +4443,7 @@
       "barcode": "8020838371396",
       "price": 25000,
       "price_formatted": "25,000",
-      "stock": 19,
+      "stock": 18,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -4457,7 +4457,7 @@
       "barcode": "8020838372904",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 135,
+      "stock": 132,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -4643,7 +4643,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-104"
     },
     {
       "no": 332,
@@ -4657,7 +4657,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-103"
     },
     {
       "no": 333,
@@ -4671,7 +4671,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-102"
     },
     {
       "no": 334,
@@ -4685,7 +4685,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-101"
     },
     {
       "no": 335,
@@ -4699,7 +4699,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-103"
     },
     {
       "no": 336,
@@ -4713,7 +4713,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-101"
     },
     {
       "no": 337,
@@ -4811,7 +4811,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-104"
     },
     {
       "no": 344,
@@ -4825,7 +4825,7 @@
       "status": "out-of-stock",
       "status_text": "품절 (X)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-103"
     },
     {
       "no": 345,
@@ -4839,7 +4839,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-102"
     },
     {
       "no": 346,
@@ -4853,7 +4853,7 @@
       "status": "out-of-stock",
       "status_text": "품절 (X)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-101"
     },
     {
       "no": 347,
@@ -4867,7 +4867,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-103"
     },
     {
       "no": 348,
@@ -4881,7 +4881,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F5-101"
     },
     {
       "no": 349,
@@ -4891,7 +4891,7 @@
       "barcode": "8020838421770",
       "price": 210000,
       "price_formatted": "210,000",
-      "stock": 18,
+      "stock": 17,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -5997,11 +5997,11 @@
       "barcode": "8020838375028",
       "price": 30000,
       "price_formatted": "30,000",
-      "stock": 82,
+      "stock": 81,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-204"
     },
     {
       "no": 429,
@@ -6015,7 +6015,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-201"
     },
     {
       "no": 430,
@@ -6025,11 +6025,11 @@
       "barcode": "8020838382279",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 30,
+      "stock": 28,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-202"
     },
     {
       "no": 431,
@@ -6043,7 +6043,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-203"
     },
     {
       "no": 432,
@@ -6057,7 +6057,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-302"
     },
     {
       "no": 433,
@@ -6067,11 +6067,11 @@
       "barcode": "8020838382262",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 94,
+      "stock": 93,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-301"
     },
     {
       "no": 434,
@@ -6085,7 +6085,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F4-303"
     },
     {
       "no": 435,
@@ -6095,7 +6095,7 @@
       "barcode": "8020838413638",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 810,
+      "stock": 805,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -6771,7 +6771,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-104"
     },
     {
       "no": 484,
@@ -6785,7 +6785,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-103"
     },
     {
       "no": 485,
@@ -6799,7 +6799,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-102"
     },
     {
       "no": 486,
@@ -6809,11 +6809,11 @@
       "barcode": "8020838374731",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 19,
+      "stock": 20,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-101"
     },
     {
       "no": 487,
@@ -6827,7 +6827,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-103"
     },
     {
       "no": 488,
@@ -6837,11 +6837,11 @@
       "barcode": "8020838374724",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 16,
+      "stock": 15,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-101"
     },
     {
       "no": 489,
@@ -7023,7 +7023,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-104"
     },
     {
       "no": 502,
@@ -7037,7 +7037,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-103"
     },
     {
       "no": 503,
@@ -7051,7 +7051,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-102"
     },
     {
       "no": 504,
@@ -7061,11 +7061,11 @@
       "barcode": "8020838374670",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 18,
+      "stock": 19,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-101"
     },
     {
       "no": 505,
@@ -7079,7 +7079,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-103"
     },
     {
       "no": 506,
@@ -7089,11 +7089,11 @@
       "barcode": "8020838374663",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 33,
+      "stock": 32,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F4-101"
     },
     {
       "no": 507,
@@ -7299,7 +7299,7 @@
       "barcode": "8020838374618",
       "price": 200000,
       "price_formatted": "200,000",
-      "stock": 22,
+      "stock": 21,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -7313,7 +7313,7 @@
       "barcode": "8020838374601",
       "price": 200000,
       "price_formatted": "200,000",
-      "stock": 14,
+      "stock": 13,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -7467,7 +7467,7 @@
       "barcode": "8990800033815",
       "price": 200000,
       "price_formatted": "200,000",
-      "stock": 9,
+      "stock": 8,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -7551,7 +7551,7 @@
       "barcode": "8020838374496",
       "price": 200000,
       "price_formatted": "200,000",
-      "stock": 19,
+      "stock": 17,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -7733,11 +7733,11 @@
       "barcode": "8020838343027",
       "price": 45000,
       "price_formatted": "45,000",
-      "stock": 63,
+      "stock": 66,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-108"
     },
     {
       "no": 553,
@@ -7747,11 +7747,11 @@
       "barcode": "8020838343003",
       "price": 45000,
       "price_formatted": "45,000",
-      "stock": 24,
+      "stock": 20,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-107"
     },
     {
       "no": 554,
@@ -7761,11 +7761,11 @@
       "barcode": "8020838342990",
       "price": 45000,
       "price_formatted": "45,000",
-      "stock": 59,
+      "stock": 60,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-106"
     },
     {
       "no": 555,
@@ -7779,7 +7779,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-106"
     },
     {
       "no": 556,
@@ -7793,7 +7793,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-107"
     },
     {
       "no": 557,
@@ -7807,7 +7807,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "3F 단프라"
+      "location": "F3-105"
     },
     {
       "no": 558,
@@ -8097,7 +8097,7 @@
       "barcode": "8020838366620",
       "price": 155000,
       "price_formatted": "155,000",
-      "stock": 18,
+      "stock": 17,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -8433,11 +8433,11 @@
       "barcode": "8051811404442",
       "price": 35000,
       "price_formatted": "35,000",
-      "stock": 240,
+      "stock": 238,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F3-205"
     },
     {
       "no": 603,
@@ -8447,11 +8447,11 @@
       "barcode": "8020838343225",
       "price": 30000,
       "price_formatted": "30,000",
-      "stock": 140,
+      "stock": 139,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F3-207"
     },
     {
       "no": 604,
@@ -8465,7 +8465,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F3-206"
     },
     {
       "no": 605,
@@ -8479,7 +8479,7 @@
       "status": "out-of-stock",
       "status_text": "품절 (X)",
       "category": "파츠",
-      "location": "A14-D"
+      "location": "-"
     },
     {
       "no": 606,
@@ -8493,7 +8493,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/3F"
+      "location": "A14-D/F3-208"
     },
     {
       "no": 607,
@@ -8867,9 +8867,9 @@
       "barcode": "8020838369690",
       "price": 155000,
       "price_formatted": "155,000",
-      "stock": 1,
-      "status": "in-stock",
-      "status_text": "보유 (O)",
+      "stock": 0,
+      "status": "out-of-stock",
+      "status_text": "품절 (X)",
       "category": "헬멧",
       "location": "3F-2/건너창고"
     },
@@ -8882,8 +8882,8 @@
       "price": 155000,
       "price_formatted": "155,000",
       "stock": 0,
-      "status": "in-stock",
-      "status_text": "보유 (O)",
+      "status": "out-of-stock",
+      "status_text": "품절 (X)",
       "category": "헬멧",
       "location": "3F-2"
     },
@@ -9147,7 +9147,7 @@
       "barcode": "8020838371105",
       "price": 140000,
       "price_formatted": "140,000",
-      "stock": 21,
+      "stock": 18,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -9203,7 +9203,7 @@
       "barcode": "8020838371099",
       "price": 140000,
       "price_formatted": "140,000",
-      "stock": 2,
+      "stock": 1,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -9343,7 +9343,7 @@
       "barcode": "8990800042954",
       "price": 140000,
       "price_formatted": "140,000",
-      "stock": 6,
+      "stock": 5,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -9991,7 +9991,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/F3-101"
+      "location": "A14-D/F3-104"
     },
     {
       "no": 714,
@@ -10005,7 +10005,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/F3-101"
+      "location": "A14-D/F3-103"
     },
     {
       "no": 715,
@@ -10019,7 +10019,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/F3-101"
+      "location": "A14-D/F3-102"
     },
     {
       "no": 716,
@@ -10047,7 +10047,7 @@
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
-      "location": "A14-D/F3-101"
+      "location": "A14-D/F3-103"
     },
     {
       "no": 718,
@@ -10435,7 +10435,7 @@
       "barcode": "준비중",
       "price": 99000,
       "price_formatted": "99,000",
-      "stock": 12,
+      "stock": 8,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -10911,7 +10911,7 @@
       "barcode": "준비중",
       "price": 99000,
       "price_formatted": "99,000",
-      "stock": 17,
+      "stock": 16,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -11079,7 +11079,7 @@
       "barcode": "준비중",
       "price": 92000,
       "price_formatted": "92,000",
-      "stock": 51,
+      "stock": 45,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -11135,7 +11135,7 @@
       "barcode": "준비중",
       "price": 92000,
       "price_formatted": "92,000",
-      "stock": 59,
+      "stock": 53,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -11261,7 +11261,7 @@
       "barcode": "준비중",
       "price": 92000,
       "price_formatted": "92,000",
-      "stock": 11,
+      "stock": 10,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -11345,7 +11345,7 @@
       "barcode": "준비중",
       "price": 25000,
       "price_formatted": "25,000",
-      "stock": 115,
+      "stock": 114,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
