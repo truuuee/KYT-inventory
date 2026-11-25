@@ -1,14 +1,14 @@
 {
   "meta": {
-    "store_time": "2026-11-24 10:15",
-    "store_filename": "현재고조회_20261124101552_952130292.xls",
+    "store_time": "2026-11-25 09:42",
+    "store_filename": "현재고조회_20261125094225_345257522.xls",
     "total_count": 931,
-    "total_stock": 15766,
+    "total_stock": 15763,
     "in_stock_count": 891,
     "out_of_stock_count": 40,
     "helmets_count": 772,
     "parts_count": 159,
-    "build_time": "2026-11-24 10:17:10"
+    "build_time": "2026-11-25 09:43:27"
   },
   "items": [
     {
@@ -369,7 +369,7 @@
       "barcode": "8990800045757",
       "price": 155000,
       "price_formatted": "155,000",
-      "stock": 3,
+      "stock": 2,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -3127,7 +3127,7 @@
       "barcode": "준비중",
       "price": 45000,
       "price_formatted": "45,000",
-      "stock": 226,
+      "stock": 225,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -3463,7 +3463,7 @@
       "barcode": "8020838391288",
       "price": 599000,
       "price_formatted": "599,000",
-      "stock": 6,
+      "stock": 5,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
@@ -4443,7 +4443,7 @@
       "barcode": "8020838371396",
       "price": 25000,
       "price_formatted": "25,000",
-      "stock": 18,
+      "stock": 19,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "파츠",
@@ -7957,7 +7957,7 @@
       "barcode": "8020838370726",
       "price": 155000,
       "price_formatted": "155,000",
-      "stock": 20,
+      "stock": 19,
       "status": "in-stock",
       "status_text": "보유 (O)",
       "category": "헬멧",
